@@ -15,7 +15,7 @@ python3 RG_NBR_rce.py -c http://127.0.0.1:1111 cmdshell模式
 
 python3 RG_NBR_rce.py -f url.txt 批量检测
 
-![](https://github.com/MzzdToT/CNVD-2021-09650/blob/main/CNVD-2021-09650user.png)
+![](./CNVD-2021-09650user.png)
 
 ## 免责声明
 
